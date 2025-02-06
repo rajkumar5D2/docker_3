@@ -1,0 +1,13 @@
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\constants\AppConstants.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\dto\SearchResponse.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\dto\SearchResquest.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\entity\EligibilityDetails.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\MiniProject02Application.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\properties\AppProperties.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\repository\EligibilityDetailsRepository.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\rest\ReportRestController.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\rest\ReportServiceRestController.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\runner\AppRunner.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\service\ReportService.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\service\ReportServiceImpl.java
+E:\java\JRPT\02-Reports_API\src\main\java\com\raj\in\swagger\SwaggerConfig.java
