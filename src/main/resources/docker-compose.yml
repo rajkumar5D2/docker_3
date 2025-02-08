@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+   application:
+      image: reports_image
+      networks:
+      - reports_mysql_net
+      ports:
+      - 8080:8080
+      depends_on:
+      - mysql
+   mysql:
+      image: mysql:5.7
+      networks:
+      - reports_mysql_net
+      environment:
+      -  MYSQL_ROOT_PASSWORD: root
+      -  MYSQL_DATABASE: cricket
+   networks:
+   -  reports_mysql_net: null
+# volume: null
